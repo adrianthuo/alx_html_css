@@ -1,0 +1,57 @@
+.body{
+    background-image: url(images/background.png);
+}
+.navbar{
+    align-content: end;
+    margin-right: 0%;
+    padding-left: 60%;
+}
+.navbar li {
+    display: inline-block;
+    color: #FFF;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 12px;
+    
+    
+    
+}
+.navbar a{
+    display: inline-block;
+    font-family: Source Sans Pro;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    padding-left: 12px;
+    color: #FFF;
+}
+.logo h2{
+    padding-left: 10%;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.disp{
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 5%;
+}
+.smile p{
+    color: #FFF;
+}
+.testimonies{
+    display: flex;
+    justify-content: space-around;
+    color: #FFF;
+    align-items: flex-end;
+}
+
