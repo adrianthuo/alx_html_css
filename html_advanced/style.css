@@ -246,6 +246,9 @@
 }
 .tutorials{
     display: flex;
+    justify-content: space-around;
+    color: #FFF;
+    align-items: flex-end;
 
 }
 
