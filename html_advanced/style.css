@@ -518,11 +518,11 @@
 
 .copy{
     color: #FFF;
-
-font-family: Source Sans Pro;
-font-size: 12px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
-text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    padding-top: 60px;
 }
